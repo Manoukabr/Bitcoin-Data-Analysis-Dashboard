@@ -108,3 +108,6 @@ Open the dashboard in your browser
 Use the sidebar to select time periods and indicators
 
 Explore interactive charts and technical analysis
+
+app link : https://470d0d1b-f293-48dd-ac96-7f9c55a511c7-00-w2k6r4tsbj8u.spock.replit.dev/
+
